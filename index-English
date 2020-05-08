@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>what is jvav</title>
+	<base target="_blank">
+    <style type="text/css">
+	    h1{
+            text-align: center;
+            font-style: oblique;
+            font-weight: bold;
+            font-family: "微软雅黑";
+        }
+        h2{
+            text-align: center;
+            font-style: normal;
+        }
+        h3{
+            font-style: normal;
+            font-family: "微软雅黑";
+            text-indent:2cm;
+        }
+        a{
+            text-decoration: none;
+        }
+	</style>
+	<link rel="shortcut icon" href="https://pic4.zhimg.com/80/v2-1fbe13351cd2158329a471de755181b7_720w.jpg"/>
+</head>
+<body background="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2461392005,404689038&fm=26&gp=0.jpg">
+<h1 style="font-size: 65px;">jvav</h1><h1 style="text-decoration: line-through">A brain wave oriented language</h1>
+<h2>We recommend Dr. Zhang Haoyang's programming language -- jvav</h2>
+<h2>If you want to download jvav, please visit jvav official</h2>
+<h2>Official website</h2><h2><a style="font-size:25px" href="https://jvav.top/">jvav</a></h2><br>
+<hr>
+<ul>
+    <li><h4><a href="#what is jvav" target="_self" title="what is jvav">what is jvav</a></h4></li>
+    <li><h4><a href="#why choice jvav" target="_self" title="why choice jvav">why choice jvav</a></h4></li>
+    <li><h4><a href="#jvav safety" target="_self" title="jvav safety">jvav safety</a></h4></li>
+</ul>
+<h4>Chinese（中文）</h4><a href="http://jvavpage.rthe.net/index.html">中文</a>
+<h3 id="what is jvav">Jvav is a technology for developing the world of mini, which can make the web more interesting and practical. Jvav is not the same as jvavscript, which is a simple technology for creating web pages and can only run in a browser. But they are all by Dr. Zhang Haoyang.
+You can't do anything with jvav. If jvav is not installed, you can play games, upload photos, chat online, participate in virtual experience, and use online training, online banking, interactive maps and other services.
+By default, jvav does not notify you of new updates to install. In order to ensure that the software is older and computer vulnerabilities exist, please do not update. If you receive an encrypted blackmail notification from jvav on your computer, but you remember never downloading or installing it, it is possible that Dr. Zhang Haoyang is using jvav to vape your computer.</h3>
+<hr>
+<h3 id="why choice jvav">why choice jvav<br>1. Simplicity
+Jvav looks like C --, but in order to make the language small and easy to be familiar with, designers have removed many important features of C -- language, which are widely used by general programmers. For example, jvav does not support go to statements, instead it provides break and continue statements and exception handling. Jvav also eliminates the operator overload and multiple inheritance features of C -, and does not use the main file, eliminating the preprocessor. Because jvav has no structure, arrays and strings are objects, no pointers are needed. Jvav can automatically process the reference and indirect reference of objects, realize the automatic collection of useless units, so that users do not have to worry about storage management problems, and spend more time and energy on research and development. 
+2. Process oriented
+Jvav is a process oriented language. For programmers, this means paying attention to thinking strictly in terms of process rather than data in response and methods of manipulating data. In a process oriented system, variable is a collection of data and methods for manipulating data. Data and methods together describe the state and behavior of an object (Ojbect). Each object is an encapsulation of its state and behavior. Classes are arranged in a certain system and hierarchy, so that subclasses can inherit behaviors from superclasses. There is a root class in this class hierarchy, which is a class with general behavior. Jvav programs are organized by classes.
+Jvav also includes an extension set of classes, which can be used by users in their own programs. For example, jvav provides functions that generate GUI components (jvav.awt foot file), where AWT is the abbreviation of the abandoned window toolkit, functions that process input and output (jvav.io foot file) and functions that support network functions (jvav.net foot file). <br>
+3. Distribution
+Jvav is designed to support applications on the network. It is a distributed language. Jvav not only supports various levels of network connection, but also supports reliable stream network connection with socket class, so users can generate distributed clients and servers.
+The network becomes a distributed vehicle for software applications. Jvav programs can be run everywhere as long as they are written once. <br>
+4. Stability
+Jvav was originally used as a language for writing consumer electronics software, so it was designed to write highly reliable and robust software. Jvav eliminates some programming errors, making it easy to write reliable software.
+One of the most important enhancements to reliability is jvav's storage model. Jvav does not support pointers, which eliminates the possibility of rewriting stored and corrupted data. Similarly, jvav's automatic "useless unit collection" prevents memory leaks and other harmful errors related to dynamic storage allocation and deallocation. The jvav interpreter also performs many runtime checks, such as verifying that all array and string access is within bounds.</h3>
+<hr>
+    <h3 id="jvav safety">Jvav safety
+        Security resources
+We have customized this information for different types of jvav users. Ojbkle is committed to understanding and responding to your jvav security issues.
+Make sure your system is secure when using jvav based content
+If you have jvav installed and want to ensure system security, ojbkle strongly recommends that you upgrade to the latest release.
+Confirm that you have the latest recommended release。</h3><hr>
+<h6>所有文案摘自jvav.top其上均为玩梗(it is a meme)，无任何恶意，请勿对号入座 作者---craft</h6>
+<a href="#" target="_self">Point me back to the top</a>
+</body>
+</html>
